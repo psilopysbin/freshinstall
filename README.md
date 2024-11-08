@@ -22,7 +22,14 @@ https://github.com/ibrahimbutt/direwolf-arch-rice
 https://github.com/seeingangelz/dotfiles
 > curl -sSL https://raw.githubusercontent.com/seeingangelz/dotfiles/master/.github/dots_bootstrap.sh | bash -s && cd ~/Documents/dotfiles/ && ./install.sh
 
-## i3WM Keybinds
+### seeingangelz Config Keybinds
+| Keybind       | Function      |
+| ------------- |:-------------:|
+| `Super` + `Enter`      | Open Terminal |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
+
+## My i3WM Keybinds
 - Super + Enter = Terminal
 - Super + 1 = Workspace 1
 - Super + N = Workspace Number N (N is Any Digit)
