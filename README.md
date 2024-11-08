@@ -22,16 +22,16 @@ https://github.com/ibrahimbutt/direwolf-arch-rice
 https://github.com/seeingangelz/dotfiles
 
 # i3WM Keybinds
-Super + Enter = Terminal
-Super + 1 = Workspace 1
-Super + N = Workspace Number N (N is Any Digit)
-Super + Q = Quit selected Window
-Super + G = Hide Top Bar
-Super + Shift + Q = Quit DWM (Back to TTY)
-Super + J = Focus Left Window
-Super + K = Focus Right Window
-Super + H = Resize to Left
-Super + L = Resize to Right
+- Super + Enter = Terminal
+- Super + 1 = Workspace 1
+- Super + N = Workspace Number N (N is Any Digit)
+- Super + Q = Quit selected Window
+- Super + G = Hide Top Bar
+- Super + Shift + Q = Quit DWM (Back to TTY)
+- Super + J = Focus Left Window
+- Super + K = Focus Right Window
+- Super + H = Resize to Left
+- Super + L = Resize to Right
 
 # Firefox Homepages
 medjeds.neocities.org
