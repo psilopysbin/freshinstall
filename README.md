@@ -1,13 +1,13 @@
 # My personal fresh install for linux/windows
 
 ## Custom Resolutions for Windows 10
-1280x960
-1152x864
-1024x768
-1280x1024
-1350x1080
-1720x1080
-1440x1080
+-1280x960
+-1152x864
+-1024x768
+-1280x1024
+-1350x1080
+-1720x1080
+-1440x1080
 
 ## TF2 Stretched Res + Options
 -h xxxx -w xxxx -windowed -noborder -novid
