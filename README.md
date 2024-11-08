@@ -45,16 +45,18 @@ https://github.com/seeingangelz/dotfiles
 | `Super` + `1/5` | Switch to another tag |
 
 ## My i3WM Keybinds
-- Super + Enter = Terminal
-- Super + 1 = Workspace 1
-- Super + N = Workspace Number N (N is Any Digit)
-- Super + Q = Quit selected Window
-- Super + G = Hide Top Bar
-- Super + Shift + Q = Quit DWM (Back to TTY)
-- Super + J = Focus Left Window
-- Super + K = Focus Right Window
-- Super + H = Resize to Left
-- Super + L = Resize to Right
+| Keybinds | Function |
+|----------|----------|
+| `Super` + `Enter` | Terminal |
+| `Super` + `1` | Workspace 1 |
+| `Super` + `N` | Workspace Number N (N is Any Digit) |
+| `Super` + `Q` | Quit selected Window |
+| `Super` + `G` | Hide Top Bar |
+| `Super` + `Shift` + `Q` | Quit DWM (Back to TTY) |
+| `Super` + `J` | Focus Left Window |
+| `Super` + `K` | Focus Right Window |
+| `Super` + `H` | Resize to Left |
+| `Super` + `L` | Resize to Right |
 
 ## Firefox Homepages
 https://medjeds.neocities.org
