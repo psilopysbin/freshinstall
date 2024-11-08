@@ -18,8 +18,9 @@ https://github.com/lll2yu/sddm-lain-wired-theme
 # Stock Arch Linux Rice
 https://github.com/ibrahimbutt/direwolf-arch-rice
 
-# seeingangelz
+# seeingangelz Arch Build
 https://github.com/seeingangelz/dotfiles
+> curl -sSL https://raw.githubusercontent.com/seeingangelz/dotfiles/master/.github/dots_bootstrap.sh | bash -s && cd ~/Documents/dotfiles/ && ./install.sh
 
 # i3WM Keybinds
 - Super + Enter = Terminal
