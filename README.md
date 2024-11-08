@@ -34,4 +34,4 @@ https://github.com/seeingangelz/dotfiles
 - Super + L = Resize to Right
 
 # Firefox Homepages
-medjeds.neocities.org
+https://medjeds.neocities.org
