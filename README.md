@@ -1,6 +1,6 @@
 # My personal fresh install for linux/windows
 
-# Custom Resolutions for Windows 10
+## Custom Resolutions for Windows 10
 1280x960
 1152x864
 1024x768
@@ -9,20 +9,20 @@
 1720x1080
 1440x1080
 
-# TF2 Stretched Res + Options
+## TF2 Stretched Res + Options
 -h xxxx -w xxxx -windowed -noborder -novid
 
-# Lain Wired SDDM Theme
+## Lain Wired SDDM Theme
 https://github.com/lll2yu/sddm-lain-wired-theme
 
-# Stock Arch Linux Rice
+## Stock Arch Linux Rice
 https://github.com/ibrahimbutt/direwolf-arch-rice
 
-# seeingangelz Arch Build
+## seeingangelz Arch Build
 https://github.com/seeingangelz/dotfiles
 > curl -sSL https://raw.githubusercontent.com/seeingangelz/dotfiles/master/.github/dots_bootstrap.sh | bash -s && cd ~/Documents/dotfiles/ && ./install.sh
 
-# i3WM Keybinds
+## i3WM Keybinds
 - Super + Enter = Terminal
 - Super + 1 = Workspace 1
 - Super + N = Workspace Number N (N is Any Digit)
@@ -34,5 +34,5 @@ https://github.com/seeingangelz/dotfiles
 - Super + H = Resize to Left
 - Super + L = Resize to Right
 
-# Firefox Homepages
+## Firefox Homepages
 https://medjeds.neocities.org
