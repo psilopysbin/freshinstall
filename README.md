@@ -26,8 +26,9 @@ https://github.com/seeingangelz/dotfiles
 | Keybind       | Function      |
 | ------------- |:-------------:|
 | `Super` + `Enter`      | Open Terminal |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
+| `Super` + `P`      | Open dmenu      |
+| `Super` + `Shift` + `Q` | Close Active Window      |
+| `Super` + `Shift` + `R` | Restart DWM |
 
 ## My i3WM Keybinds
 - Super + Enter = Terminal
