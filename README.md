@@ -29,6 +29,20 @@ https://github.com/seeingangelz/dotfiles
 | `Super` + `P`      | Open dmenu      |
 | `Super` + `Shift` + `Q` | Close Active Window      |
 | `Super` + `Shift` + `R` | Restart DWM |
+| `Super` + `←``→` | Move to another window |
+| `Super` + `Shift` + `←``→` | Move Master Window |
+| `Super` + `Shift` + `Space` | Toggle floating window |
+| `Super` + `,` | Show/Add to scratchpad |
+| `Super` + `Shift` + `,` | Hide scratchpad |
+| `Super` + `.` | Remove Scratchpad |
+| `Super` + `M` | Monocle layout |
+| `Super` + `T` | Tiled layout |
+| `Super` + `F` | Spiral layout |
+| `Super` + `U` | Centered master layout |
+| `Super` + `O` | Grid layout |
+| `Super` + `B` | Toggle the top bar |
+| `Super` + `Shift` + `1/5` | Move a window to another tag |
+| `Super` + `1/5` | Switch to another tag |
 
 ## My i3WM Keybinds
 - Super + Enter = Terminal
