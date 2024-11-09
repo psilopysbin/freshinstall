@@ -60,3 +60,4 @@ https://github.com/seeingangelz/dotfiles
 
 ## Firefox Homepages
 https://medjeds.neocities.org
+https://psilopsybin.neocities.org/
