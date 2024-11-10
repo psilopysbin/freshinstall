@@ -1,4 +1,4 @@
-# My personal fresh install for linux/windows
+# My personal fresh install for linux/windows dualboot
 
 ## Custom Resolutions for Windows 10
 - 1280x960
@@ -60,4 +60,5 @@ https://github.com/seeingangelz/dotfiles
 
 ## Firefox Homepages
 https://medjeds.neocities.org
+
 https://psilopsybin.neocities.org/
