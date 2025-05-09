@@ -18,6 +18,9 @@ https://github.com/lll2yu/sddm-lain-wired-theme
 ## Stock Arch Linux Rice
 https://github.com/ibrahimbutt/direwolf-arch-rice
 
+## EndeavourOS Dotfiles that i steal and edit
+https://github.com/b1shtream/Custom-EndeavourOS-Rice-01?tab=readme-ov-file
+
 
 ### seeingangelz Config Keybinds
 | Keybind       | Function      |
